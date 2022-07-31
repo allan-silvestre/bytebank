@@ -7,11 +7,6 @@ import 'package:bytebank/screens/dashboard.dart';
 
 void main() {
   runApp(ByteBankApp());
-
-  save(Contact(0, 'Andre', 1000)).then((id){
-    findAll().then((contacts) => debugPrint(contacts.toString()));
-  });
-
 }
 
 class ByteBankApp extends StatelessWidget {
