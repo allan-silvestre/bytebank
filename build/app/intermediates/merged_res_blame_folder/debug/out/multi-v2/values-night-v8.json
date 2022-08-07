@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\FlutterProjetos\\bytebank\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\FlutterProjetos\\bytebank_bkp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\FlutterProjetos\\bytebank\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\FlutterProjetos\\bytebank_bkp\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

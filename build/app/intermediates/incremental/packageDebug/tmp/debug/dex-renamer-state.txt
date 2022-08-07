@@ -1,4 +1,4 @@
-#Sun Jul 31 18:58:02 BRT 2022
-base.0=C\:\\FlutterProjetos\\bytebank\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat Aug 06 17:10:17 BRT 2022
+base.0=C\:\\FlutterProjetos\\bytebank_bkp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

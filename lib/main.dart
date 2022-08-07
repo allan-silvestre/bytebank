@@ -1,12 +1,10 @@
-import 'package:bytebank/database/app_database.dart';
-import 'package:bytebank/models/contact.dart';
-import 'package:bytebank/screens/contact_form.dart';
-import 'package:bytebank/screens/contacts_list.dart';
 import 'package:flutter/material.dart';
 import 'package:bytebank/screens/dashboard.dart';
 
 void main() {
   runApp(ByteBankApp());
+  //save(Transaction(500.0, Contact(0, 'guigui', 2000))).then((transaction) => print(transaction));
+ // findAll().then((transactions) => print ('new Trasancrions: ${transactions}'));
 }
 
 class ByteBankApp extends StatelessWidget {
